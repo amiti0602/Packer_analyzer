@@ -424,15 +424,4 @@ To test with real traffic:
    dpi_engine.exe my_capture.pcap filtered.pcap
    ```
 
----
 
-## Need Help?
-
-If you're stuck:
-
-1. Make sure you followed EVERY step (don't skip any!)
-2. Check the Troubleshooting section above
-3. Try WSL (Option 3) - it's the most reliable
-4. Google the exact error message
-
-Good luck! 🚀
